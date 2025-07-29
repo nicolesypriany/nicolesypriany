@@ -7,4 +7,4 @@
 - :books:	Estou fazendo o curso de C# no programa Entra21 da Blusoft e Graduação em Análise e Desenvolvimento de Sistemas pela Unicesumar.
 Fiz vários cursos pela plataforma Alura, onde aprendi vários conceitos de Java, C# e .NET, dominei o Entity Framework, desenvolvi aplicações Web e APIs e apliquei testes.
 
-- :rocket: Atualmente sou estagiária de TI na Senior Sistemas
+- :rocket: Atualmente sou estagiária de TI na Senior Sistemas, onde estou me aprofundando em Java com Spring Boot
